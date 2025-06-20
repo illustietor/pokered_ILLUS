@@ -3,14 +3,21 @@ DefaultNamesPlayer:
 	db   "NUEVO N."
 	next "ROJO"
 	next "ASH"
-	next "JAIME"
+	next "ILLUS"
+	db   "@"
+
+DefaultNamesGirl:
+	db   "NUEVO N."
+	next "VERDE"
+ 	next "HOJA"
+ 	next "ESTHER"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NUEVO N."
 	next "AZUL"
 	next "GARY"
-	next "JUAN"
+	next "JOSELU"
 	db   "@"
 ENDC
 
@@ -19,13 +26,20 @@ DefaultNamesPlayer:
 	db   "NUEVO N."
 	next "AZUL"
 	next "GARY"
-	next "JUAN"
+	next "ILLUS"
+	db   "@"
+
+DefaultNamesGirl:
+	db   "NUEVO N."
+	next "VERDE"
+ 	next "HOJA"
+ 	next "ESTHER"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NUEVO N."
 	next "ROJO"
 	next "ASH"
-	next "JAIME"
+	next "JOSELU"
 	db   "@"
 ENDC

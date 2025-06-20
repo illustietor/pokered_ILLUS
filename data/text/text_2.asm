@@ -1905,3 +1905,8 @@ _TextIDErrorText::
 _ContCharText::
 	text "<_CONT>@"
 	text_end
+
+_BoyGirlText::
+    text "¿Eres un chico"
+    line "o una chica?"
+    done
