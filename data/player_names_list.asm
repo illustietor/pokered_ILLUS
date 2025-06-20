@@ -3,13 +3,19 @@ DefaultNamesPlayerList:
 	db "NUEVO N.@"
 	db "ROJO@"
 	db "ASH@"
-	db "JAIME@"
+	db "ILLUS@"
+
+DefaultNamesGirlList:
+	db "NUEVO N.@"
+	db "VERDE@"
+	db "HOJA@"
+	db "ESTHER@"
 
 DefaultNamesRivalList:
 	db "NUEVO N.@"
 	db "AZUL@"
 	db "GARY@"
-	db "JUAN@"
+	db "JOSELU@"
 ENDC
 
 IF DEF(_BLUE)
@@ -17,11 +23,17 @@ DefaultNamesPlayerList:
 	db "NUEVO N.@"
 	db "AZUL@"
 	db "GARY@"
-	db "JUAN@"
+	db "ILLUS@"
+
+DefaultNamesGirlList:
+	db "NUEVO N.@"
+	db "VERDE@"
+	db "HOJA@"
+	db "ESTHER@"
 
 DefaultNamesRivalList:
 	db "NUEVO N.@"
 	db "ROJO@"
 	db "ASH@"
-	db "JAIME@"
+	db "JOSELU@"
 ENDC
